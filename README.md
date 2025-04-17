@@ -20,7 +20,7 @@ This project is an interacrive notification page, it allows the user to view a l
 
 ## Usage
 
-1. Upload the project.
+1. Download the project.
 2. Open `index.html` in your browser.
 3. Working with the page:
    * View notifications.
