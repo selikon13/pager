@@ -12,7 +12,6 @@ document.addEventListener('DOMContentLoaded', () => {
     const initialUnreadCount = Math.min(3, notifications.length);
     const initialUnreadNotifications = Array.from(notifications).slice(0, initialUnreadCount);
 
-    // NEW: Добавляем класс к первым трем уведомлениям
     initialUnreadNotifications.forEach((notification, index) => {
         notification.classList.add('first-three-notifications');
         notification.classList.add(unreadClass);
