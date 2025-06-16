@@ -1,6 +1,6 @@
 # 🛎️ Interactive Notifications page
 
-Project link:
+Project link: https://pager-blush.vercel.app/
 
 ## Description
 
